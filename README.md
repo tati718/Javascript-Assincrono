@@ -9,4 +9,5 @@ Utilizei a API https://thatcopy.pw/catapi/rest/ para fazer as chamadas com o mé
 Utilizei conhecimentos na manipulação do DOM para criar a imagem e ativar o evento de clique do botão!
 O Resultado ficou como mostra o exemplo abaixo:
 
-![image](https://user-images.githubusercontent.com/53845107/167895186-3515230a-a942-4a82-a750-ffde08bc96df.png)
+![image](https://user-images.githubusercontent.com/53845107/167896923-4aecbdaa-2957-432f-94a1-1c0ac7cd40fa.png)
+
